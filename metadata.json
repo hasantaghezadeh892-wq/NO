@@ -1,0 +1,8 @@
+{
+  "name": "فروشگاه اینترنتی ابزارآلات نووا | Nova Tools Store",
+  "description": "فروشگاه تخصصی ابزارآلات صنعتی و خانگی نووا، شگفت‌انگیزها، ثبت‌نام با حساب گوگل و نام کاربری، و پنل مدیریت",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
